@@ -2,4 +2,64 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  align-content: center;
+  
 }
+
+
+header{   
+  align-content: center;
+  width: 800px;
+  text-align: center;
+}
+
+figure {
+  align-content: center;
+  width: 800px;
+  text-align: center;
+  font-size: smaller;
+}
+
+#featured-property {
+  width: 800px;
+  text-align: center;
+  align-content: center;
+}
+
+h3 {
+  width: 800px;
+  text-align: center;
+  align-content: center;
+}
+
+img{
+  align-content: center;
+  width: 800px;
+  
+}
+
+nav{
+  align-content: center;
+    width: 800px;
+    background-color: azure;
+    text-align: center;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: beige;
+}
+ 
+/* div {
+   align-items: center;
+ 
+} */
+
+ section#details div {  
+  background-color: aquamarine;
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+  
